@@ -25,6 +25,7 @@
 '22	........................................
 '23	......Press any key to play again....... <--
 
+	' Game board
 	dim a(6, 6)
 
 	' Reset machine on BREAK
